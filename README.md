@@ -1,0 +1,15 @@
+- 👋 Hi, I'm @Ubaid2116
+- 👀 I’m interested in Full-Stack Web Development, Generative AI, and Cloud Computing.
+- 🌱 I’m currently learning TypeScript, React.js, Next.js, and deepening my knowledge in advanced Cloud Engineering concepts.
+- 💼 I’ve completed internships in Frontend Development with CodSoft and YoungDev, where I worked on responsive web designs and interactive UIs.
+- 🔭 I’m currently working on a React Native-based ambulance booking mobile application and refining my personal portfolio.
+- 💞️ I’m looking to collaborate on innovative projects that leverage Generative AI, scalable web applications, and cloud-based solutions.
+- 🛠 My projects include a Facebook clone, a MarkSheet generator, a Contact Us form, and a fully responsive personal portfolio.
+- 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/muhammad-ubaid-hussain-6a6054290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app),
+- [Email](mailto:ukubaid74@gmail.com),
+- [GitHub](https://github.com/Ubaid2116)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I dedicate 7 hours daily to learning and enjoy building projects that solve real-world problems.
+- 🌟 Key Skills: HTML5, CSS3, TypeScript, React.js, Next.js, Tailwind CSS, Cloud Computing, and Generative AI.
+- 🎯 Goal: To become an expert in Generative AI and Cloud Computing, and to contribute to projects that make a difference in the tech world.
