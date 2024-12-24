@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **innovative projects that leverage Generative AI, scalable web applications, and cloud-based solutions.**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-mu-ubaid.vercel.app/](https://personal-portfolio-mu-ubaid.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-mu-ubaid.vercel.app/](https://ubaidxme.vercel.app/)
 
 - 💬 Ask me about **Web Development**
 
