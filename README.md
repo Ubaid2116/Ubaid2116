@@ -45,7 +45,7 @@
 ![Aceternity UI](https://img.shields.io/badge/AceternityUI-gray?style=for-the-badge)
 ![Magic UI](https://img.shields.io/badge/MagicUI-purple?style=for-the-badge)
 
-#### **Backend & AI**
+#### **Backend, AI & Headless CMS**
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
@@ -54,6 +54,8 @@
 ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents-blue?style=for-the-badge)
 ![Google Agents SDK](https://img.shields.io/badge/Google_Agents-orange?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-1F1F1F?style=for-the-badge&logo=n8n&logoColor=E3514D)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify)
 
 #### **Databases, Auth & API Integration**
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
