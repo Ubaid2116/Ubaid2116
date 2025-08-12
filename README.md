@@ -55,13 +55,18 @@
 ![Google Agents SDK](https://img.shields.io/badge/Google_Agents-orange?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-1F1F1F?style=for-the-badge&logo=n8n&logoColor=E3514D)
 
-#### **Databases & Auth**
+#### **Databases, Auth & API Integration**
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
 ![Neon](https://img.shields.io/badge/Neon-black?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 ![Authentication](https://img.shields.io/badge/Authentication-FF5733?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs)
+![API Integration](https://img.shields.io/badge/API%20Integration-blue?style=for-the-badge&logo=api)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
